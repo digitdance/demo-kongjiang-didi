@@ -1,36 +1,22 @@
 <div align="center" >
-    <img src="![newlogo@2x.png](newlogo%402x.png)" />
+    <img src="https://raw.githubusercontent.com/love414427/demo-kongjiang-didi/main/zhanshi/newlogo%402x.png" />
 </div>
 <div align="center">
 
 # 👏👏👏开源版本空降上门系统👏👏👏
 （滴滴到家），上门，到家，开源框架，技术支持，售后服务
 
-</div>
-<div align="center" >
-    <a href="http://www.crmeb.com">
-        <img src="https://img.shields.io/badge/License-GPL3.0-green.svg?style=flat" />
-    </a>
-    <a href='https://gitee.com/ZhongBangKeJi/crmeb_java/members'>
-        <img src='https://gitee.com/ZhongBangKeJi/crmeb_java/badge/fork.svg?theme=dark' alt='fork'></img>
-    </a>
-   <a href='https://gitee.com/ZhongBangKeJi/crmeb_java/stargazers'>
-        <img src='https://gitee.com/ZhongBangKeJi/crmeb_java/badge/star.svg?theme=dark' alt='star'></img>
-    </a>
-</div>
+
 
 <div align="center">
 
-[官网](https://www.crmeb.com/) |
-[在线体验](https://admin.java.crmeb.net) |
-[帮助文档](https://doc.crmeb.com/java/crmeb_java) |
-[技术社区](https://www.crmeb.com/ask/)
+[官网](http://www.aprxapp.cn/) |
+[在线体验](http://di.aprxapp.cn/) |
+[帮助文档](http://www.aprxapp.cn/zt/homeservicev6/index.html) |
+[技术社区](http://www.aprxapp.cn/zt/homeservice/baojia.html)
 
 [comment]: <> ([宽屏预览]&#40;https://gitee.com/ZhongBangKeJi/crmeb_java/blob/master/README.md&#41;)
 
-</div>
-<div align="center" >
-    <a href="https://gitee.com/ZhongBangKeJi/crmeb_java/blob/master/README.md">宽 屏 预 览</a>
 </div>
 
 <div align="center">
@@ -41,63 +27,42 @@
 
 ### 📖 简介：
 
-CRMEB 开源商城系统Java版，基于Java+Vue+Uni-app开发，在微信公众号、小程序、H5移动端都能使用，代码全开源无加密，独立部署，二开很方便，还支持免费商用，能满足企业新零售、分销推广、拼团、砍价、秒杀等多种经营需求，自用、做二开项目都很合适。
+开源版本空降上门系统，后台基于 ThinkPhp6.0 开发，后台UI采用iview admin企业版框架，系统高效稳定，UI美观精致，独立部署，二开很方便、分销推广、等多种经营需求，自用、做二开项目都很合适。
 
-CRMEB开源商城PHP：https://gitee.com/ZhongBangKeJi/CRMEB
+源版本空降上门系统PHP：http://di.aprxapp.cn
 
 
-系统代码全开源无加密，独立部署、二开方便，适用于企业新零售、分销、拼团、砍价，秒杀等各种业务需求。
+上门SPA、外围服务、名媛空降、等为一体的团妹解决方案
 
 ---
 
 ### 💡 系统亮点：
->1.SpringBoot 框架开发业界主流。  </br>
->2.【前端】Web PC 管理端 Vue + Element UI。<br>
->3.【前端】移动端使用 Uni-app 框架，前后端分离开发。<br>
->4.标准RESTful 接口、标准数据传输，逻辑层次更明确，更多的提高api复用。<br>
+>1.前端框架升级为uni-app，公小程序、H5、APP等多端合一  </br>
+>2.后台独立出admin api 接口，后台前后端分离<br>
+>3.后台UI框架为VUE+ Iview Admin框架<br>
+>4.swoole 框架加持，高并发<br>
 >5.支持Redis队列，降低流量高峰，解除耦合，高可用。<br>
->6.数据导出，方便个性化分析。<br>
+>6.后台标准接口、前后端分离，二次开发更方便<br>
 >7.数据统计分析,使用ECharts图表统计，实现用户、产品、订单、资金等统计分析。<br>
->8.Spring Security 权限管理，后台多种角色，多重身份权限管理，权限可以控制到按钮级别的操作。<br>
->9.Vue表单生成控件，拖拽配置表单，减少前端重复表单工作量，提高前端开发效率。<br>
+>8.后台页面加载，跳转流畅<br>
+>9.组件化开发，可复用，开发便捷<br>
+
 
 ---
 
 ### 💻 运行环境及框架：
 ~~~
-1.	移动端uniapp开发框架 可生成H5 公众号 微信小程序
-2.	WEB Pc 管理后台使用Vue + Element UI 开发 兼容主流浏览器 ie11+
-3.	后台服务 Java SpringBoot + Mybatis-plus + Mysql + redis
-4.	运行环境 linux和windows等都支持,只要有Java环境和对应的数据库 redis
-5.	运行条件 Java 1.8 Mysql5.7
-~~~
----
+* Nignx 1.18~1.2.1/apache 2.2
 
-### 🔧 Java项目框架 和 WEB PC 项目运行环境
-~~~
-1. SpringBoot 2.2.6.RELEASE
-2. Maven 3.6.1
-3. swagger-bootstrap-ui 1.0
-4. Mybatis Plus 3.3.1
-5. npm 6
-6. node 14
-7. vue 2.x
-8. element ui 2.13
+* PHP 7.1~7.4
+
+* MySQL 5.5~5.7
+
+* Redis 6.0
+
+* Supervisor 2.2
 ~~~
 
----
-
-### 🧭 项目代码包介绍
-~~~
-1. admin     WEB程序         PC端管理端 VUE + ElementUi
-2. app       移动商城         UniApp标准开发(H5 + 微信小程序)
-3. crmeb     Api            Java SpringBoot + mybatisPlus
-4. 接口文档   Api对应的接口文档也可以部署项目后查看
-~~~
-
-移动端 uniapp 开发 使用 HbuilderX 开发
-
----
 
 [![](crmeb/crmebimage/crmebimage/demoimage/gitee-广告_java多商户.jpg)](https://www.crmeb.com/ask/thread/46123)
 
@@ -116,38 +81,23 @@ WEBPC管理端：https://admin.java.crmeb.net<br>
 
 ---
 
-### 📃 系统资料
-需要系统文档的朋友看过来，安装文档、产品介绍、技术文档...你想要的我都有！
-[https://doc.crmeb.com/java/crmeb_java](https://doc.crmeb.com/java/crmeb_java)
-
-
-要安装系统，跟着视频更顺畅！CRMEB开源商城系统Java版安装视频，给你奉上！
-视频教程 B站视频教程 持续更新中 [点击观看 💻🖥️](https://www.bilibili.com/video/BV1bP4y1n76P/?vd_source=40854aeda5bba4b8766afd5a99623b16)
-
----
 
 ### 💟 UI界面
 #### 核心功能
-![](crmeb/crmebimage/crmebimage/demoimage/javaop2.jpg)
+![](zhanshi/ht.png)s
 
 
 
 ### 📱 移动端预览
-![](crmeb/crmebimage/crmebimage/demoimage/03-mobile-01.png)
-![](crmeb/crmebimage/crmebimage/demoimage/04-mobile-02.png)
-![](crmeb/crmebimage/crmebimage/demoimage/05-mobile-03.png)
+![](zhanshi/001.png)
+![](zhanshi/002.png)
+![](zhanshi/003.png)
 
 ### WEB PC管理端预览
-![](crmeb/crmebimage/crmebimage/demoimage/07-pc-01.png)
-![](crmeb/crmebimage/crmebimage/demoimage/08-pc-02.png)
-![](crmeb/crmebimage/crmebimage/demoimage/09-pc-03.png)
-![](crmeb/crmebimage/crmebimage/demoimage/10-pc-04.png)
-![](crmeb/crmebimage/crmebimage/demoimage/11-pc-05.png)
-![](crmeb/crmebimage/crmebimage/demoimage/12-pc-06.png)
-
-![](crmeb/crmebimage/crmebimage/demoimage/13yemiandesiner-min.gif)
-![](crmeb/crmebimage/crmebimage/demoimage/14yijianhuanse-min.gif)
-![](crmeb/crmebimage/crmebimage/demoimage/15webPCadmin-min.gif)
+![](zhanshi/ht.png)
+![](zhanshi/ht01.png)
+![](zhanshi/ht02.png)
+![](zhanshi/ht03.png)
 
 
 ---
@@ -172,32 +122,4 @@ CRMEB JAVA 技术交流QQ群 3群 640230510 🈵️ 群已满<br>
 
 ---
 
-### 💌 特别鸣谢
-核心开发团队
-
-产品: 木子刀客
-
-技术: ❄指缝de阳光, 怪兽的猫, 乡关何处
-
-团队打杂: 大粽子
-
-UI: 被子横盖显得高🐰
-
-测试: 请叫我绵绵🐏, 夏天
-
----
-
-### 🔔 使用须知
-1.允许用于个人学习、毕业设计、教学案例、公益事业、商业使用;<br>
-2.如果商用必须保留版权信息，请自觉遵守;<br>
-3.禁止将本项目的代码和资源进行任何形式的出售，产生的一切任何后果责任由侵权者自负。<br>
-
----
-### 🪪 版权信息
-本项目包含的第三方源码和二进制文件之版权信息另行标注。<br>
-版权所有Copyright © 2017-2022 by CRMEB (https://www.crmeb.com)<br>
-All rights reserved。<br>
-CRMEB® 商标和著作权所有者为西安众邦网络科技有限公司。<br>
-
----
 
