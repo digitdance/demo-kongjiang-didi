@@ -69,15 +69,20 @@
 
 ### 🎬 系统演示：
 ![](crmeb/crmebimage/crmebimage/demoimage/c1.jpg)
-移动端：https://java.crmeb.net<br>
-WEBPC管理端：https://admin.java.crmeb.net<br>
-账号密码： demo/crmeb.com<br>
+移动端：https://didi.aprxapp.cn/pages/users/login/index<br>
+账号密码： 18788888888/a123456<br>
 
-自己搭建演示账号
-移动端 18292417675 / crmeb@123456
-管理端 admin / 123456
+WEBPC管理端：https://didi.aprxapp.cn/admin<br>
+账号密码： admin/admin888<br>
 
-[想了解CRMEB开源商城系统Java版整体框架，你可以戳这里快速掌握！](https://doc.crmeb.com/java/crmeb_java/2049)
+主站 可以下载（ios+安卓）<br>
+https://di.aprxapp.cn/v5/index.html <br>
+
+---
+
+唯一联系TG：@jeequan https://t.me/jeequan <br>
+更多系统点击这里 http://www.aprxapp.cn/<br>
+
 
 ---
 
@@ -101,24 +106,12 @@ WEBPC管理端：https://admin.java.crmeb.net<br>
 
 
 ---
-### 📲 CRMEB开源技术交流群
-扫码进群可领取开源版接口文档、产品功能清单、高清UI设计图、思维脑图！
+### 📲 江湖科技
+成功运营经验，加密支付通道，确保资金安全，一站式保姆维护服务，让您轻松月入百万。
 ![](crmeb/crmebimage/crmebimage/demoimage/wellcomJavaGroup.jpg)
 
-
-#### 📈 技术社区
-找方法、提bug、看官方消息、拿活跃大奖！
-https://www.crmeb.com/ask/thread/list/152
-
-
-#### 📞 技术交流
-跟着官方，不迷路！欢迎扫码加入CRMEB 开源项目群，一手消息及资源，尽在掌握！<br>
-CRMEB JAVA 技术交流QQ群 1群 🈵️<br>
-CRMEB JAVA 技术交流QQ群 2群 🈵️<br>
-CRMEB JAVA 技术交流QQ群 3群 640230510 🈵️ 群已满<br>
-<!-- [CRMEB开源商城系统开发QQ频道已开启，点击加入一起交流学习](https://pd.qq.com/s/1v2yb4e0p)<br>
-![](crmeb/crmebimage/crmebimage/demoimage/qqcus.jpg) -->
-使用中遇到bug 或者问题可以在gitee 上提 Issues
+唯一联系TG：@jeequan https://t.me/jeequan <br>
+更多系统点击这里 http://www.aprxapp.cn/<br>
 
 ---
 
